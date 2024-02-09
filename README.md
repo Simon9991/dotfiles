@@ -1,2 +1,3 @@
 # .dotfiles
-my dotfiles with nvim fish and nvim config
+
+my dotfiles with fish and nvim config
