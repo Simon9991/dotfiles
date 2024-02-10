@@ -1,4 +1,4 @@
-# .dotfiles
+# dotfiles
 My current `dotfiles`, based on [craftzdogs](https://github.com/craftzdog/dotfiles-public/tree/master) `dotfiles` as I am a fan of his work.
 Some changes based on personal preferences, I will try to update this repository as much as needed.
 
