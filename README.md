@@ -28,6 +28,7 @@ This setup is optimized for web development, but also works very well with `c`, 
 - [Eza](https://github.com/eza-community/eza) - ls replacement
 - [ghq](https://github.com/x-motemen/ghq) - Local Git repository organizer
 - [fzf](https://github.com/PatrickF1/fzf.fish) - Interactive filtering
+- [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool (optional but then some `git` aliases will not work)
 - Fish theme [bobthefish](https://github.com/oh-my-fish/theme-bobthefish) (optional)
 
 ## Credits
