@@ -63,8 +63,11 @@ keymap.set("n", "<C-w><down>", "<C-w>-")
 
 -- Diagnostics
 keymap.set("n", "<C-j>", function()
-  vim.diagnostic.goto_next()
+	vim.diagnostic.goto_next()
 end, opts)
 keymap.set("n", "<C-J>", function()
-  vim.diagnostic.goto_prev()
+	vim.diagnostic.goto_prev()
 end, opts)
+
+-- Explore
+keymap.set("n", "<Leader>pv", vim.cmd.Ex)
