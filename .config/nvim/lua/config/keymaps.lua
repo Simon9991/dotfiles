@@ -71,3 +71,6 @@ end, opts)
 
 -- Explore
 keymap.set("n", "<Leader>pv", vim.cmd.Ex)
+
+-- Search and replace in file
+vim.keymap.set("n", "<leader>sr", [[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>]])
